@@ -1,0 +1,3 @@
+The downsides to this approach were that we had to iterate through every single item of every single list within aviation_list.  We should stop when we find what we're looking for.  Also, there may be other shorter methods that are linec.
+
+It took the same amount of effort to search through a list of lists versus the hash table because we were searching through all of the values instead of just looking for a specific key.
